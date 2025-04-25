@@ -1,0 +1,27 @@
+# 🧾 AGG - Changelog
+
+All notable changes to AGG (ABI's Guessing Game) will be documented here.
+
+---
+
+## [Alpha v0.1.0] - 2025-04-25
+🎉 Initial public release
+
+### Added
+- Image Guess Mode
+- Distorted Image Guess Mode
+- Riddle Mode
+- Song Guess Mode with audio playback
+- Local and Online Leaderboard system
+- User sign-in, sign-up, and account deletion
+- Basic sound and background music support
+- Installer for Windows
+
+---
+
+## Planned for Beta
+- Settings menu (toggle music, themes)
+- Game timer improvements
+- Additional media packs (songs, images, riddles)
+- In-game help and tutorials
+- Bug fixes and performance tweaks
