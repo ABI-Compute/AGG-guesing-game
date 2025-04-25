@@ -15,9 +15,10 @@
 AGG includes an installer for easy setup on Windows.
 
 1. **Download and run the AGG installer.**
-2. Launch the game from the desktop shortcut or start menu.
-3. **Sign in** or **create an account**.
-4. Choose your game mode and start guessing!
+2. Enter: AmazingWorld123
+3. Launch the game from the desktop shortcut or start menu.
+4. **Sign in** or **create an account**.
+5. Choose your game mode and start guessing!
 
 > 💡 An internet connection is recommended for syncing scores to the global leaderboard.
 
