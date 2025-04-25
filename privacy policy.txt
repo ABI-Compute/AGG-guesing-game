@@ -1,0 +1,30 @@
+Privacy Policy – ABI's Guessing Game (AGG)
+Last Updated: April 25, 2025
+
+AGG respects your privacy and only collects the minimum data needed to provide a great game experience.
+
+1. What We Collect:
+- Username (for gameplay and leaderboard display)
+- Password (stored securely using encryption)
+- Game scores and high scores
+
+2. How We Use It:
+- To allow you to sign in and save your progress
+- To update leaderboards (local and online)
+- To provide user support if needed
+
+3. Data Storage:
+- All data is stored locally on your device
+- If connected to the internet, scores may be synced to an online leaderboard managed securely via Google Apps Script
+
+4. No Advertising or Tracking:
+- AGG does NOT track you, show ads, or share your data with third parties
+
+5. Your Rights:
+- You may delete your account from within the app
+- You may contact us to request full data deletion
+
+6. Contact:
+For questions or support, contact: [your_email@example.com]
+
+By using AGG, you agree to this Privacy Policy.
