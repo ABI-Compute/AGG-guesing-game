@@ -29,10 +29,27 @@ AGG includes an installer for easy setup on Windows.
 
 ## 📦 System Requirements
 
-- **OS**: Windows 10 or later
-- **Python**: Not required – comes bundled in the installer
-- **RAM**: 4 GB minimum recommended
-- **Storage**: ~150 MB free space
+Windows Version:
+
+OS: Windows 10 or later
+Python: Not required – comes bundled in the installer
+RAM: 4 GB minimum recommended
+Storage: ~150 MB free space
+
+Linux Version:
+
+OS: Any modern Linux distribution (e.g., Ubuntu, Fedora, Debian, Mint, etc.)
+Python: Python 3.x (recommended version: 3.6 or higher)
+Required Python Packages:
+-Tkinter (for the GUI)
+-Pillow (for image manipulation)
+-pygame (for game sounds and interactions)
+-requests (for HTTP requests if needed)
+Permissions: Ensure that the .run file has execute permissions (chmod +x AGG.run)
+RAM: 4 GB minimum recommended
+Storage: ~150 MB free space
+Desktop Environment: A desktop environment like GNOME, KDE, or Xfce for proper GUI functionality
+
 
 ## 📌 Note
 
