@@ -12,7 +12,8 @@
 
 ## 🚀 Getting Started
 
-AGG includes an installer for easy setup on Windows.
+AGG includes an installer for easy setup on Windows and Linux.
+Windows:
 
 1. **Download and run the AGG installer.**
 2. Enter: AmazingWorld123
@@ -20,6 +21,32 @@ AGG includes an installer for easy setup on Windows.
 4. **Sign in** or **create an account**.
 5. Choose your game mode and start guessing!
 
+Linux:
+1. Download the Installer:
+2. Go to the GitHub release page and download the AGG.run installer.
+Make the Installer Executable:
+3. Open a terminal and navigate to the folder where the installer was downloaded.
+4. Run the following command to make the installer executable: chmod +x AGG.run
+Run the Installer:
+5. Execute the installer by running: ./AGG.run
+This will start the installation process.
+6. Choose the Installation Directory:
+The installer will ask for a directory where the game will be installed. By default, it will install to the ~/Games/AGG folder. You can change this if you want the game to be installed in a different location.
+Wait for the Installation to Complete:
+The installer will extract the necessary files, set permissions, and create a desktop shortcut. The process may take a few minutes.
+7. Install Dependencies (if needed):
+8. The installer will check for required dependencies (Python 3, Tkinter, Pillow, pygame, etc.). If any dependencies are missing, you will be prompted to install 
+  them manually: sudo apt-get install python3 python3-tk python3-pip
+  pip3 install Pillow pygame requests
+Creating a Desktop Shortcut:
+-If the installation is successful and a desktop environment is detected, a desktop shortcut (AGG.desktop) will be created in your ~/Desktop directory. You can use 
+ this shortcut to easily launch the game.
+Launching the Game:
+9. Double-click the AGG icon on your desktop to start the game.
+   Alternatively, you can run it directly from the terminal with: ~/Games/AGG/StartAGG.sh
+10. **Sign in** or **create an account**.
+11. Choose your game mode and start guessing!
+   
 > 💡 An internet connection is recommended for syncing scores to the global leaderboard.
 
 ## 🔐 Account & Progress
