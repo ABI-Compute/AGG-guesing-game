@@ -9,6 +9,12 @@
 - **Riddle Mode** – Solve brain-teasing riddles.
 - **Song Mode** – Name that tune from a short audio clip.
 - **Leaderboard** – Compete for the top spot!
+- **Local** Multiplayer Mode
+- **Online** Multiplayer mode Mode
+- **4 Servers**
+- **Online** saving of encrypted passwords
+- **Lobby chat**
+- **Flappy bird** - to pass time before a round of questions
 
 ## 🚀 Getting Started
 
