@@ -4,7 +4,7 @@ All notable changes to AGG (ABI's Guessing Game) will be documented here.
 
 ---
 
-## [Alpha v0.1.0] - 2025-04-25
+## [Alpha v0.1.0] - 25-04-2025
 🎉 Initial public release
 
 ### Added
@@ -15,7 +15,7 @@ All notable changes to AGG (ABI's Guessing Game) will be documented here.
 - Local and Online Leaderboard system
 - User sign-in, sign-up, and account deletion
 - Basic sound and background music support
-- Installer for Windows
+- Installer for Windows + Linux
 
 ---
 
@@ -25,3 +25,42 @@ All notable changes to AGG (ABI's Guessing Game) will be documented here.
 - Additional media packs (songs, images, riddles)
 - In-game help and tutorials
 - Bug fixes and performance tweaks
+
+## [Beta v0.8.0] - 27-06-2025
+🎉 Second public release
+
+### Added
+- Local Multiplayer Mode
+- Online Multiplayer mode Mode
+- 4 Servers
+- Online saving of encrypted passwords
+- Lobby chat
+- Flappy bird to pass time before a round of questions
+- UI update
+- More credits
+
+---
+
+## 🛠 Planned for Release Candidate (v0.9.x)
+
+🎯 The Release Candidate (RC) will focus on finalizing core features, improving stability, and preparing AGG for full release.
+
+### Planned Features
+- **Settings menu:** Final version with theme switcher, volume control, and accessibility options  
+- **Improved tutorials:** Interactive onboarding and tooltips for all game modes  
+- **Custom lobbies:** Password-protected lobbies and host control options  
+- **Advanced statistics:** View play history, accuracy, and performance breakdowns  
+- **Full controller support** for PC gamepads  
+- **Improved accessibility:** Colorblind mode, subtitle options, and readable fonts
+
+### Improvements
+- Smoother **server selection** and fallback handling  
+- **Reduced loading times** and faster game transitions  
+- UI refinements across all game modes  
+- Expanded **media pack management UI** (download, preview, delete)  
+- Improved error handling and network timeout recovery
+
+### Fixes
+- Multiplayer synchronization bugs  
+- Account creation edge cases  
+- UI layout inconsistencies across resolutions
