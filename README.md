@@ -111,7 +111,7 @@ AGG is in active development. Future updates will include new game modes, expand
 
 ## 📜 License
 
-*License info here* (e.g. MIT, GPL, etc. — add this if you want others to legally use or contribute to your code.)
+[https://github.com/ABI-Compute/AGG-guessing-game/blob/main/Licence.txt](url)
 
 ---
 
