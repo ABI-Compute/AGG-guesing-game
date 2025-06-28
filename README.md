@@ -57,7 +57,7 @@ Launching the Game:
 
 ## 🔐 Account & Progress
 
-- Your progress is saved securely to your local system.
+- Your progress is saved securely to your local system and if you're online, to an online authentication server.
 - High scores are synced online (when connected) to keep you ranked globally.
 
 ## 📦 System Requirements
