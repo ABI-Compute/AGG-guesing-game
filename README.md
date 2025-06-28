@@ -83,6 +83,11 @@ RAM: 4 GB minimum recommended
 Storage: ~150 MB free space
 Desktop Environment: A desktop environment like GNOME, KDE, or Xfce for proper GUI functionality
 
+## 👑 Earn Your Name in the Credits
+
+If you manage to get this running perfectly on Linux—with working GUI, images, and authentication—message me with what you did. I'll add your name to the "Legends of Portability" credits roll.
+
+
 
 ## 📌 Note
 
